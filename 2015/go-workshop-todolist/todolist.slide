@@ -3,12 +3,12 @@ Gophers Katowice #2, November 14, 2015
 
 Jonathan Gautheron
 Karol Górecki
+#gophers @ KatoTech.slack.com
 
 * About us
 
 Past and current works:
 
-- ☁ microservices
 - [[https://github.com/exago][exago]]
 - [[https://github.com/jgautheron/gocha][jgautheron/gocha]]
 - [[https://github.com/karolgorecki/goprove][karolgorecki/goprove]]
@@ -64,6 +64,12 @@ The GOPATH environment variable is used to specify directories outside of $GOROO
 .image api.png 450 _
 
 * To-Do List
+
+* Disclaimer
+
+- Simplified version
+- No database
+- Many possible improvements (that's the goal!)
 
 * Time to code!
 
