@@ -1,0 +1,79 @@
+Go Workshop: To-Do List
+Gophers Katowice #2, November 14, 2015
+
+Jonathan Gautheron
+Karol Górecki
+
+* About us
+
+Past and current works:
+
+- ☁ microservices
+- [[https://github.com/exago][exago]]
+- [[https://github.com/jgautheron/gocha][jgautheron/gocha]]
+- [[https://github.com/karolgorecki/goprove][karolgorecki/goprove]]
+
+.image http://golang.org/doc/gopher/gopherbw.png 200 _
+
+* Today's menu
+
+1. Install Go
+2. Setup your favorite editor
+3. API
+4. Time to code
+5. Setup the front-end
+
+* 
+.image patience.jpg 550 _
+
+* Install Go
+
+* 
+*What*is*the*GOPATH?*
+
+The GOPATH environment variable is used to specify directories outside of $GOROOT that contain the source for Go projects and their binaries.
+
+*Tutorials*for*each*OS*
+
+- [[http://www.wadewegner.com/2014/12/easy-go-programming-setup-for-windows/][Windows]]
+- [[https://medium.com/@jgautheron/sublime-text-and-go-2b8af99fc16a][OSX & Linux]]
+
+* Setup an editor
+
+* 
+.image https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV6qG-2oiD08VFKpIIJBB9X-Q0JecYYBrwskOR_8FI1rquekEx 550 _
+.caption Sorry, no Eclipse
+
+* 
+*Sublime*Text* (recommended)
+
+- [[https://medium.com/@jgautheron/sublime-text-and-go-2b8af99fc16a][OSX & Linux]]
+- Windows [[http://www.sublimetext.com/3][part 1]] - [[https://medium.com/@jgautheron/sublime-text-and-go-2b8af99fc16a][part 2]]
+
+*Atom*
+
+- [[http://marcio.io/2015/07/supercharging-atom-editor-for-go-development/][go-plus]]
+
+*VIM* (advanced)
+
+- [[https://github.com/fatih/vim-go][vim-go]]
+
+* API
+
+* 
+.image api.png 450 _
+
+* To-Do List
+
+* Time to code!
+
+.image codeworks.jpg 500 _
+
+* Front-end
+
+Get it [[https://github.com/gopherskatowice/todolist-frontend][here]] and follow the instructions in the _README_.
+
+.image todolist.png 500 _
+
+* 
+.image http://www.laughtard.com/wp-content/uploads/2014/12/I-still-have-no-idea-what-Im-doing.jpg 600 _
